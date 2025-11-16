@@ -89,16 +89,25 @@ Environment Setup
 Create .env file:
 
 PORT=5000
+
 DB_HOST=localhost
+
 DB_PORT=5432
+
 DB_NAME=ecommerce_db
+
 DB_USER=postgres
+
 DB_PASSWORD=
 
 JWT_SECRET=your_secret_key
+
 CLOUDINARY_CLOUD_NAME=
+
 CLOUDINARY_API_KEY=
+
 CLOUDINARY_API_SECRET=
+
 CLIENT_URL=http://localhost:3000
 
 
@@ -142,6 +151,7 @@ src/
  ├── routes/
  ├── utils/
  └── app.js
+
 
 
 
