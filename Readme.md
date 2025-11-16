@@ -79,7 +79,9 @@ Jest, Supertest
 📦 Installation
 
 git clone https://github.com/sohan03/EcommerceRESTAPI.git
+
 cd EcommerceRESTAPI
+
 npm install
 
 Environment Setup
@@ -140,5 +142,6 @@ src/
  ├── routes/
  ├── utils/
  └── app.js
+
 
 
